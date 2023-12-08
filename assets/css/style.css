@@ -48,10 +48,10 @@
   height: 90vh;
   position: relative;
   color: #fff;
-  transition: box-shadow 0.4s;
+  transition: box-shadow 0.7s;
 }
 .hero:hover{
-  box-shadow: 0px 0px 10px #0ef;
+  box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.1);
 }
 .hero .hero-content {
   text-align: center;
